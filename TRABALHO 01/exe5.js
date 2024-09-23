@@ -1,4 +1,4 @@
-//"Verificar se um Ano é Bissexto"
+//5. "Verificar se um Ano é Bissexto"
 function verBis(ano){
     if((ano % 4 === 0 && ano % 100 !== 0) || (ano % 400 ===0)){
         console.log(`${ano} É um ano bissexto.`);

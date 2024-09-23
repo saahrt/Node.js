@@ -1,4 +1,4 @@
-//"Calcular o Fatorial de um Número"
+//6. "Calcular o Fatorial de um Número"
 function fatorial(n){
     if(n < 0){//verifica se o número é negativo
         throw new Error(`O fatorial não está definido para números negativos.`);
@@ -14,7 +14,7 @@ function fatorial(n){
         return resultado;
     }
 }
-const num = 5
+const num = 5;
 try {
     const resultado = fatorial(num);
     console.log(`O fatorial do número ${num} é igual ${resultado}`);

@@ -1,4 +1,4 @@
-//"Determinar a Maioridade de uma Pessoa com Base na Idade"
+//3. "Determinar a Maioridade de uma Pessoa com Base na Idade"
 // >18 menor de idade; =<18 maior de idade
 function verIdade(num){
     if(num >= 18 ){

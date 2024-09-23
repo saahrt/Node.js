@@ -1,4 +1,4 @@
-//"Converter Temperatura de Celsius para Fahrenheit"
+//8. "Converter Temperatura de Celsius para Fahrenheit"
 function CelToFar(celsius){
     return celsius * (9 / 5) + 32;
 }

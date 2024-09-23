@@ -1,4 +1,4 @@
-//"Verificar se um Número é Par ou Ímpar"
+//1. "Verificar se um Número é Par ou Ímpar"
 function verNum(num){
     if(num % 2 === 0){
     console.log(`${num} é um número par.`);

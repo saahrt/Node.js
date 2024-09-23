@@ -1,4 +1,4 @@
-//"Classificar a Temperatura do Dia como Fria, Agradável ou Quente"
+//4. "Classificar a Temperatura do Dia como Fria, Agradável ou Quente"
 // Fria: Temperaturas geralmente abaixo de 10°C (50°F).
 // Agradável: Temperaturas entre 10°C e 25°C (50°F a 77°F).
 // Quente: Temperaturas acima de 25°C (77°F).
